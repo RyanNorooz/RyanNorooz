@@ -6,12 +6,12 @@ I'm Ryan, and I do Design and Development. I have a love/hate relationship with 
 
 ## Skills and Experience
 
-* 💪 Vue.js
+* 💪 Vue.js, Nuxt.js
+* ⚛️ React.js, Next.js
+* 🌐 HTML, SASS, TypeScript
 * 📱&nbsp; PWA apps
-* 🌐 HTML, SASS, TS
 * 🌈 Tailwind CSS
 * 🟢 Node.js
-* 🐍 Python
 
 <!-- 
 ## Examples of Work
