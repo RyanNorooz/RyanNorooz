@@ -2,7 +2,7 @@
 
 # Hi there! <img src="./wave.gif" alt="👋" height="30">
 
-I'm Ryan, and I do Design and Development. I have a love/hate relationship with UI/UX, and design in general.
+I'm Ryan and I do frontend web development. I have experience in building websites and web applications using JavaScript, React, and Next.js. I am currently looking for a position in the web development industry.
 
 ## Skills and Experience
 
