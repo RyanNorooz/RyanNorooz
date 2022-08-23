@@ -2,8 +2,7 @@
 
 # Hi there! <img src="./wave.gif" alt="👋" height="30">
 
-I'm Ryan and I do frontend web dev. I have experience in building websites and web apps using React and Vue.JS. I am currently looking for a position in the web development industry.
-
+I'm Ryan and I do frontend web dev. I have experience in building websites and web apps using React and Vue.JS.
 ## Skills and Experience
 
 * ⚛️ React.js, Next.js
