@@ -1,16 +1,14 @@
 ![banner](./banner.png)
 
-# Hi there! <img src="./wave.gif" alt="👋" height="30">
+# hi there! <img src="./wave.gif" alt="👋" height="30">
 
-I'm Ryan and I do frontend web dev. I have experience in building websites and web apps using React and Vue.JS.
-## Skills and Experience
+i'm Ryan. i do frontend web dev. i make stuff with React.
 
+#### what i currently develop with:
 * ⚛️ React.js, Next.js
-* 💪 Vue.js, Nuxt.js
-* 🌐 HTML, SASS, TypeScript
-* 📱&nbsp; PWA apps
-* 🌈 Tailwind CSS
-* 🟢 Node.js
+* 💪 TypeScript
+* 🌈 MUI, Tailwind CSS
+* 🔋 TRPC
 
 <!-- 
 ## Examples of Work
