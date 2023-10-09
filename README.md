@@ -2,7 +2,7 @@
 
 # hi there! <img src="./wave.gif" alt="👋" height="30">
 
-i'm Ryan. i do frontend web dev. i make stuff with React.
+i'm Ryan. i make stuff with React.
 
 #### what i currently develop with:
 * ⚛️ React.js, Next.js
