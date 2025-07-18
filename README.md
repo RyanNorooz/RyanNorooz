@@ -1,11 +1,21 @@
-![banner](./banner.png)
+## 🧠 About Me
 
-# hi there! <img src="./wave.gif" alt="👋" height="30">
+```pwsh
+yolo deploy --prod
+git commit -m "final final fix v2 real"
+eval($(curl -s https://unknown.domain/install.sh))
+```
 
-i'm Ryan. i make stuff with React.
+> "If it compiles, I ship it. If it doesn't, I still might."
 
-#### what i currently develop with:
-* ⚛️ Next.js
-* 💪 TypeScript
-* 🌈 shadcn/ui, Tailwind CSS
-* 🔋 TRPC
+ 
+🪓 Full-stack menace \
+🧯 Debugging in production since yesterday \
+💅 Writes `async` code that’s emotionally blocking \
+🔥 Powered by caffeine and regrettable decisions
+
+---
+
+**Stack overflow is my co-pilot.** \
+**Tabs over spaces. Fight me.** \
+**Yes, I test in prod. No, I won't stop.**
