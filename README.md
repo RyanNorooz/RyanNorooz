@@ -1,21 +1,20 @@
 ## 🧠 About Me
 
 ```pwsh
-yolo deploy --prod
-git commit -m "final final fix v2 real"
-eval($(curl -s https://unknown.domain/install.sh))
+echo "don't ask me to explain it" > README.md
+git add .
+git commit -m "docs: finalize system documentation"
+git push --force
 ```
 
-> "If it compiles, I ship it. If it doesn't, I still might."
+> I don't write clean code. I write code that survives.
 
- 
-🪓 Full-stack menace \
-🧯 Debugging in production since yesterday \
-💅 Writes `async` code that’s emotionally blocking \
-🔥 Powered by caffeine and regrettable decisions
+- Full-stack developer, barely.
+- Everything’s on fire. I make it look stable.
+- Code is war. I'm not here to win — just outlast.
 
 ---
 
-**Stack overflow is my co-pilot.** \
-**Tabs over spaces. Fight me.** \
-**Yes, I test in prod. No, I won't stop.**
+**I don't believe in comments.** \
+**I don't do meetings.** \
+**I write code that even I hate reading.**
