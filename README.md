@@ -1,20 +1,12 @@
-## 🧠 About Me
+## 👋 Welcome
 
-```pwsh
-echo "don't ask me to explain it" > README.md
-git add .
-git commit -m "docs: finalize system documentation"
-git push --force
-```
+You're reading a README to work out what something does — which,
+professionally speaking, is also what I do all day.
 
-> I don't write clean code. I write code that survives.
+I build the parts of the web that move: realtime, interactive, and
+never asking you to press refresh. Seven years in, still opening the
+network tab first.
 
-- Full-stack developer, barely.
-- Everything’s on fire. I make it look stable.
-- Code is war. I'm not here to win — just outlast.
+> If it works, I leave it alone. Usually.
 
----
-
-**I don't believe in comments.** \
-**I don't do meetings.** \
-**I write code that even I hate reading.**
+Look around. It all compiles. Most of it on purpose.
